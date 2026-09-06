@@ -6,7 +6,7 @@ import { createHmac } from "crypto";
 // Master owns this file — do not hand-edit; drift is overwritten on next sync.
 // ---------------------------------------------------------------------------
 
-const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old290826pulse";
+const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "pulse";
 const MASTER = process.env.MASTER_BASE_URL ?? "https://martech.innovexsis.com";
 
 const CONFIG_REFRESH_COMMANDS = new Set<string>([
