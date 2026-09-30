@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 
-const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "pulse";
+const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old250826pulse";
 
 export const Route = createFileRoute("/api/public/debug/dependency-report")({
   server: {
