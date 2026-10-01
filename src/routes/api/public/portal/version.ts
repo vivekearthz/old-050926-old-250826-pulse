@@ -1,8 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
 
-const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "pulse";
+const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old250826pulse";
 const AGENT_VERSION = 3;
-const PATCH_VERSION = "v72";
+const PATCH_VERSION = "v74";
 
 export const Route = createFileRoute("/api/public/portal/version")({
   server: {
