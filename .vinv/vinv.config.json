@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/VinvAI/VinvAI/main/schema/vinv.config.schema.json",
-  "project": "pulse",
+  "project": "old250826pulse",
   "repo": "vivekearthz/pulse",
   "runtime": {
     "start": "bun run dev",
