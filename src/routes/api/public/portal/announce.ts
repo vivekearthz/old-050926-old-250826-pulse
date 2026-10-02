@@ -1,9 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { createHmac } from "crypto";
 
-const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old290826pulse";
+const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old250826pulse";
 const MASTER = process.env.MASTER_BASE_URL ?? "https://martech.innovexsis.com";
-const PATCH_VERSION = process.env.SLAVE_PATCH_VERSION ?? "v72";
+const PATCH_VERSION = process.env.SLAVE_PATCH_VERSION ?? "v74";
 
 function versionNumber(tag: string) {
   const n = Number.parseInt(String(tag).replace(/^v/i, ""), 10);
