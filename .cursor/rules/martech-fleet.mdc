@@ -1,5 +1,5 @@
 ---
-description: MarTech fleet engineering rules for portal pulse
+description: MarTech fleet engineering rules for portal old250826pulse
 alwaysApply: true
 ---
 - Stack is fixed: TanStack Start v1 + React 19 + Vite 7 + Tailwind v4 + Supabase.
