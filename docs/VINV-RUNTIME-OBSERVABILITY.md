@@ -1,6 +1,6 @@
 # Vinv (Vibe Inverse) — runtime observability for coding agents
 
-Portal: `pulse` · Repo: `vivekearthz/pulse` · Upstream: https://github.com/VinvAI/VinvAI (Apache-2.0)
+Portal: `old250826pulse` · Repo: `vivekearthz/pulse` · Upstream: https://github.com/VinvAI/VinvAI (Apache-2.0)
 Extension: https://open-vsx.org/extension/VinvAI/VinvAI
 
 Vinv is an IDE plugin that **runs the service, finds issues, and verifies fixes
