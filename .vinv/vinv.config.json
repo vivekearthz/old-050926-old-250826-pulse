@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/VinvAI/VinvAI/main/schema/vinv.config.schema.json",
-  "project": "old250826pulse",
-  "repo": "vivekearthz/pulse",
+  "project": "pulse",
+  "repo": "vivekearthz/Innovexsis",
   "runtime": {
     "start": "bun run dev",
     "readyUrl": "http://localhost:8080/",
