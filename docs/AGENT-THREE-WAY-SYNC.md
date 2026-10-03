@@ -1,6 +1,6 @@
 # Three-way agent sync (Lovable ⇄ GitHub ⇄ Cursor/Merlin)
 
-Portal: `pulse`  ·  Repo: `vivekearthz/Innovexsis`
+Portal: `pulse`  ·  Repo: `vivekearthz/pulse`
 
 ## How work arrives
 Lovable (the MarTech master) commits one Markdown brief per task to:
