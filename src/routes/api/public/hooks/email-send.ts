@@ -16,7 +16,7 @@ import { createHmac, timingSafeEqual } from "crypto";
 // Master owns this file - do not hand-edit; drift is overwritten on next sync.
 // ---------------------------------------------------------------------------
 
-const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "old250826pulse";
+const PRODUCT = process.env.SLAVE_PRODUCT_KEY ?? "pulse";
 const MASTER = process.env.MASTER_BASE_URL ?? "https://martech.innovexsis.com";
 
 function sign(body: string) {
